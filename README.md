@@ -11,7 +11,7 @@
 </p>
 
 <!-- Hero Banner -->
-<img src="https://raw.githubusercontent.com/NoahMenezes/tubakhxn/main/github-header-image.png" width="100%">
+<img src="https://raw.githubusercontent.com/NoahMenezes/profile/main/github-header-image.png" width="100%">
 
 <!-- Intro -->
 <h3 align="center">A Passionate Full Stack Developer 💻</h3>
@@ -40,7 +40,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/NoahMenezes" target="_blank"><img src="https://raw.githubusercontent.com/NoahMenezes/tubakhxn/main/coffee.png" height="30" /></a>
+  <a href="https://github.com/NoahMenezes" target="_blank"><img src="https://raw.githubusercontent.com/NoahMenezes/profile/main/coffee.png" height="30" /></a>
 </p>
 
 ---
@@ -159,7 +159,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoahMenezes&theme=github_dark"/>
 </p>
 
-![Gitartwork](https://raw.githubusercontent.com/NoahMenezes/tubakhxn/main/gitartwork.svg)
+![Gitartwork](https://raw.githubusercontent.com/NoahMenezes/profile/main/gitartwork.svg)
 
 ---
 
@@ -167,7 +167,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/NoahMenezes" target="_blank">
-    <img src="https://raw.githubusercontent.com/NoahMenezes/tubakhxn/main/Github_Badge1.png" alt="GitHub Certification" height="300">
+    <img src="https://raw.githubusercontent.com/NoahMenezes/profile/main/Github_Badge1.png" alt="GitHub Certification" height="300">
   </a>
 </div>
 
@@ -176,7 +176,7 @@
 ## Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoahMenezes/tubakhxn/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/NoahMenezes/profile/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
