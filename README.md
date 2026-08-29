@@ -147,29 +147,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoahMenezes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="NoahMenezes GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoahMenezes&theme=github_dark"/>
-</p>
-
-![Gitartwork](https://raw.githubusercontent.com/NoahMenezes/profile/main/gitartwork.svg)
-
----
-
-## Certified Achievements
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/NoahMenezes" target="_blank">
-    <img src="https://raw.githubusercontent.com/NoahMenezes/profile/main/Github_Badge1.png" alt="GitHub Certification" height="300">
-  </a>
-</div>
 
 ---
 
