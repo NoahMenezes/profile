@@ -11,7 +11,7 @@
 </p>
 
 <!-- Hero Banner -->
-<img src="https://raw.githubusercontent.com/NoahMenezes/profile/main/github-header-image.png" width="100%">
+<img src="https://raw.githubusercontent.com/NoahMenezes/profile/main/noah-header.png" width="100%">
 
 <!-- Intro -->
 <h3 align="center">A Passionate Full Stack Developer 💻</h3>
